@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mental-health",
+    "slug": "mental-health",
+    "version": "1.0.0",
+    "extra": {
+      "apiUrl": process.env.REACT_APP_API_URL
+    }
+  }
+}
